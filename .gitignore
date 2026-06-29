@@ -1,0 +1,14 @@
+data/raw/
+data/processed/
+data/worldpop/
+models/weights/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+*.tif
+*.geojson
+!**/fixtures/**/*.geojson
+outputs/*.pdf
+data/outputs/*.pdf
